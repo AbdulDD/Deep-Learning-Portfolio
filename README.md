@@ -14,5 +14,4 @@ For each and every task in this repository, a document (Task statement) is given
 Datasets used for different tasks are either public or created. For public datasets, links are given in task statement. For created datasets they are placed in dataset folder.
 
 # Projects
-1. Comparing CNN and VGnet: Two DL models for Bone Fracture Detection problem
-2. Spam Email Classification using Naive Bayes algorithm
+1. Bone Fracture detection using Convolutional Neural Network (CNN)
