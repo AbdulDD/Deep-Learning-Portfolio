@@ -15,3 +15,4 @@ Datasets used for different tasks are either public or created. For public datas
 
 # Projects
 1. Bone Fracture detection using Convolutional Neural Network (CNN)
+2. Spam Email detection using Naive Bayes algorithm
