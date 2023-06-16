@@ -1,9 +1,9 @@
-# ML_Internship_Eziline_Software_House
-This repository acts as my Portfolio for the Internship I have done in Machine Learning tachnology at Eziline Software house, Rawalpindi, Punjab, Pakistan.
+# Deep Learning Portfolio
+This repository is my comprehensive collection of tools, resources, projects and projects' documentations related to Deep Learning and it serves as my portfolio for Deep learning and computer vision
 
 # Key_Features
-1. Exploratory Data Analysis
-2. Machine learning and Deep learning algorithms and models
+1. Data preparation
+2. Deep learning for computer vision and other relavent tasks
 3. Optimization and Evaluations of models
 4. Use of Pre-trained models and Transfer learning
 
@@ -15,4 +15,3 @@ Datasets used for different tasks are either public or created. For public datas
 
 # Projects
 1. Bone Fracture detection using Convolutional Neural Network (CNN)
-2. Spam Email detection using Naive Bayes algorithm
